@@ -1,0 +1,45 @@
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\bin\Debug\onmuhasebe.exe.config
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\bin\Debug\onmuhasebe.exe
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\bin\Debug\onmuhasebe.pdb
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.Form1.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.exe
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.pdb
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.kasagiris.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.kasacikis.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.kasaduzelt.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.bankaduzenle.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.bankaekle.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.virman.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.islemcekme.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.islemekle.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.islembankavirman.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.islemduzenle.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.islemvirman.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.login.resources
+C:\Users\LENOVO\source\repos\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.admin.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\bin\Debug\onmuhasebe.exe.config
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\bin\Debug\onmuhasebe.exe
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\bin\Debug\onmuhasebe.pdb
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.admin.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.bankaduzenle.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.bankaekle.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.Form1.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.islembankavirman.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.islemcekme.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.islemduzenle.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.islemekle.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.islemvirman.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.kasacikis.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.kasaduzelt.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.kasagiris.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.login.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.Properties.Resources.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.virman.resources
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.csproj.GenerateResource.cache
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.exe
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.pdb
+D:\Format Öncesi\Yeni klasör\onmuhasebe\onmuhasebe\obj\Debug\onmuhasebe.csprojAssemblyReference.cache
