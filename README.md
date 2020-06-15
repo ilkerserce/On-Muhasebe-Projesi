@@ -1,2 +1,2 @@
 # On Muhasebe Projesi
- Küçük ve orta işletmeler için ön muhasebe projesi
+Bu proje küçük ve orta ölçekli işletmelerin finansal kayıtlarını dijital ortamda saklayabilmesini hedeflemektedir. Proje geliştirme aşamasındadır.
